@@ -3,5 +3,5 @@
 
 ## Dev Django 2018 
 
-- @leehosung: 8퍼센트 사랑해요!
+- 이호성: 8퍼센트 사랑해요!
 - @kimminji1: ♚♚8☆퍼센트♚♚채용중$$CTO☜☜미팅100%※ §§P2P금융플랫폼§★훌륭한★개발문화♜Python♜Django♜웹서비스￥데이터분석@@@ 즉시이동[https://brunch.co.kr/@8percent/23](https://brunch.co.kr/@8percent/23)
